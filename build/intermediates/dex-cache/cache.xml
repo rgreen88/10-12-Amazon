@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.2.0\f196283dab426e09559bfe7385f162b2b254cf72\gifdecoder-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.2.0_a4b0f2082be2b7b96fcc5e5b3f025b43abbd3790\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_55b4b8b6212044d22db2f9c352d4371e86e716fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\f3afb4052d624c6a45fc2bbb8db3ddc353cfe90c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd9112562b464317d12ccab05f182db76cd82ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\86e95bc2a10808f6bcd9a8bdc9f5b697677c5a15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4342263bd08ba2b55977737e0bf5c380b43f37bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.2.0\fd3a444cc7987b5fa2a60fabb116395ca2a4da1c\disklrucache-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.2.0_6af6e8cadfa0c2927ec4c123f9df1289b296db2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\f8764fc8c40b6e01fa4c007942f6a2bb3db7437b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc1302be6076abfa3b9bfae20867abd7e08c47be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\c5597b26fad2a3e5655b2d42cc672eb85df4d5e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03fb2dcc6e55ae5d3ae7ceeea43d9bdd9fc4600e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_7994bdf6bec8fdd50232ca609a5d1f6c75f6078c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_f02bdc2d2a021876cb3cb0da4edd8e8f186431af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_f7b90dff8436f3ed640485407f0f661d3d5cfd48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.2.0\1d6fc29f2af61d8fdc31018416040c560423c4b3\annotations-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d6fc29f2af61d8fdc31018416040c560423c4b3">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.2.0_835deef1a75528897d7c9c74c99a9d91f056b5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\7eb2388bea8896735bf091f5d9c6fd17d332a098\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df65e663807c2d6b1677e38b1460e1de50f68f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_e927d17b84bf0ca3d83f8328962340e4e491cd6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\124b21c38f3b1d5aec0257959dc724e618b66292\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16d6079283c46297cee5bffeee2297a5b1688892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.2.0\b76d4269b06b8bda96aac32342a05843b4c0be41\glide-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.2.0_ed568d06a15b3fc5f006de41f3ae694929824b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\12d51cff63fc71a3403cd9fc704e6bfdb325d463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_623ad52a614327c03d1c179a7301d0e7baaff31b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.3.0\f436637f9500ab5b8bc32afe556373180894b4a5\adapter-rxjava2-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava2-2.3.0_b049f79e2b365614440051db64c2ce4545a6c40d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\290924356d2d34be552879e0ea85ac0437641156\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ce78d2f62ac1b7e76e9b2d4e5a4f0cf6e436e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_a64730725ba1123a3c2660df197d04bb7bbee5a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\cac849ca823238c67f313dbdbaa88f9ed3f4ce52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5a2ce3cc425157bcc9a3de13f11920fe0f1b9f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\4313e968176cf290f2c62bf3669f3255b210940d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7f7be46665933ca991810942f41bfd061bf2b5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\c6c2869d311dca3d6e14945c1eae4984f577fe3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c283d9a602d8ac1fcf7adf563c238407d8115601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="edd876a6b5de4afacb8cce45f70dc9fd821046d7">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_614f1b3debe9315bd2962a49d1b6a6ad8b4e3281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AmazonChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_49d19310d4ae4edbfc463792d46d33788cc91391\classes.dex" />
+    </item>
+
+</items>
